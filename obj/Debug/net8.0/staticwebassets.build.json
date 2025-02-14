@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "KnfhS0kobtid6Gm4nuhoxniJbfxe+aP0lfigWy3hUqk=",
+  "Source": "dZENcode_backend",
+  "BasePath": "_content/dZENcode_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dZENcode_backend/wwwroot",
+      "Source": "dZENcode_backend",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/images/06c28bfa-270d-478a-8e08-b4869bab1ad1number-1098377_640.png",
+      "SourceId": "dZENcode_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "RelativePath": "images/06c28bfa-270d-478a-8e08-b4869bab1ad1number-1098377_640.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/06c28bfa-270d-478a-8e08-b4869bab1ad1number-1098377_640.png"
+    },
+    {
+      "Identity": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/images/0ca8a195-e636-44ba-895c-563332ba3fd9number-1098377_640.png",
+      "SourceId": "dZENcode_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "RelativePath": "images/0ca8a195-e636-44ba-895c-563332ba3fd9number-1098377_640.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/0ca8a195-e636-44ba-895c-563332ba3fd9number-1098377_640.png"
+    },
+    {
+      "Identity": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/images/number-1098377_640.png",
+      "SourceId": "dZENcode_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "RelativePath": "images/number-1098377_640.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/number-1098377_640.png"
+    }
+  ]
+}
