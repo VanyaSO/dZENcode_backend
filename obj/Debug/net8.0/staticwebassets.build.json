@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "A0TIRiXHz8LdHXSWkWttipXKH6GwZHiLbWsmxtgv0FE=",
+  "Source": "dZENcode_backend",
+  "BasePath": "_content/dZENcode_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dZENcode_backend/wwwroot",
+      "Source": "dZENcode_backend",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/wwwroot/fonts/Roboto.ttf",
+      "SourceId": "dZENcode_backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/wwwroot/",
+      "BasePath": "_content/dZENcode_backend",
+      "RelativePath": "fonts/Roboto#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yce0hk55vz",
+      "Integrity": "slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/fonts/Roboto.ttf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "fonts/Roboto.ttf",
+      "AssetFile": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/wwwroot/fonts/Roboto.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:51:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto.yce0hk55vz.ttf",
+      "AssetFile": "/Users/ivanushachov/Desktop/dZENcode/dZENcode_backend/wwwroot/fonts/Roboto.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:51:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yce0hk55vz"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI="
+        }
+      ]
+    }
+  ]
+}

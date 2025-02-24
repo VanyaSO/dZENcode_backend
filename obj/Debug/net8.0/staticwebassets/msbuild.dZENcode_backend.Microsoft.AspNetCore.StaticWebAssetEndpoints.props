@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/dZENcode_backend/fonts/Roboto.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-slmG0Ycwlgx7JzhKsrxQCFauf\u002BnnHJhQAZGV/5AZ8LI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"468308"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022slmG0Ycwlgx7JzhKsrxQCFauf\u002BnnHJhQAZGV/5AZ8LI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jan 2025 22:51:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dZENcode_backend/fonts/Roboto.yce0hk55vz.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\Roboto.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yce0hk55vz"},{"Name":"integrity","Value":"sha256-slmG0Ycwlgx7JzhKsrxQCFauf\u002BnnHJhQAZGV/5AZ8LI="},{"Name":"label","Value":"_content/dZENcode_backend/fonts/Roboto.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"468308"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022slmG0Ycwlgx7JzhKsrxQCFauf\u002BnnHJhQAZGV/5AZ8LI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jan 2025 22:51:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

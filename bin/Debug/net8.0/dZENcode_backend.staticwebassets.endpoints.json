@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "fonts/Roboto.ttf",
+      "AssetFile": "fonts/Roboto.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:51:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/Roboto.yce0hk55vz.ttf",
+      "AssetFile": "fonts/Roboto.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "468308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:51:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yce0hk55vz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slmG0Ycwlgx7JzhKsrxQCFauf+nnHJhQAZGV/5AZ8LI="
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/Roboto.ttf"
+        }
+      ]
+    }
+  ]
+}

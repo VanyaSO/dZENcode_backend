@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  backend:
+    build:
+      context: . 
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=dzencode-database.ct6qko8ks89q.eu-north-1.rds.amazonaws.com,1433;Database=dZENcode;User=admin;Password=Admin123!;TrustServerCertificate=True
+    volumes:
+      - backend-wwwroot:/app/wwwroot
+    networks:
+      - dzencode_network
+
+volumes:
+  backend-wwwroot:
+
+networks:
+  dzencode_network:
+    external: true
